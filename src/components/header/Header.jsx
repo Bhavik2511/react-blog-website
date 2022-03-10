@@ -8,7 +8,7 @@ function Header(){
         <span className="smalltitle">MERN Stack Developer</span>
         <span className="largeTitle">Blog</span>
         </div>
-        <img className="headerImage" src="/images/headerimg.jpg" alt="" />
+        <img className="headerImage" src="https://github.com/Bhavik2511/react-blog-website/blob/main/public/images/headerimg.jpg" alt="" />
     </div>
     )
 }
