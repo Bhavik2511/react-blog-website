@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-blog-website/static/css/main.a1b0a5e8.css",
+    "main.js": "/react-blog-website/static/js/main.aac05358.js",
+    "static/media/pexels-quang-nguyen-vinh-3355788.jpg": "/react-blog-website/static/media/pexels-quang-nguyen-vinh-3355788.91280f32fdae5d0a58ca.jpg",
+    "static/media/pexels-quang-nguyen-vinh-3355732.jpg": "/react-blog-website/static/media/pexels-quang-nguyen-vinh-3355732.93deffbf3018c0c9fc63.jpg",
+    "index.html": "/react-blog-website/index.html",
+    "main.a1b0a5e8.css.map": "/react-blog-website/static/css/main.a1b0a5e8.css.map",
+    "main.aac05358.js.map": "/react-blog-website/static/js/main.aac05358.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1b0a5e8.css",
+    "static/js/main.aac05358.js"
+  ]
+}
