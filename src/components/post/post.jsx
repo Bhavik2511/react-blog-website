@@ -6,7 +6,7 @@ function Post(){
         
         <div className="post">
             <img className="postImage"
-             src="/images/postimg.jpg" alt="image" />
+             src="images/postimg.jpg" alt="image" />
              <div className="postInfo">
                  <div className="postCats">
                      <span className="postCat">Music</span>
