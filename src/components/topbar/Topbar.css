@@ -37,10 +37,7 @@
     border-radius: 20%;
     object-fit: cover;
     margin-right: 15px;
-     background-image:
-    linear-gradient(rgba(255,255,255,0.5),
-    rgba(255,255,255,0.5)),
-     url(D:\react.js\my-app\public\images\pexels-quang-nguyen-vinh-3355788.jpg);
+    
 }
 .topIcon{
     font-size: 30px;
