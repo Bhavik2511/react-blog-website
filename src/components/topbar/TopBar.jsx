@@ -25,7 +25,7 @@ function TopBar(){
                 </div>
             <div className="topRight">
                 {
-                    user ? (<img className="topImage" src="/images/bhavik.jpg" alt="bhavik" />) : ( <ul className="topList">
+                    user ? (<img className="topImage" src="./images/bhavik.JPG" alt="bhavik" />) : ( <ul className="topList">
                             <li className="topListItem"><Link className="link" to="/login">LOGIN</Link></li>
                             
                             <li className="topListItem"><Link className="link" to="/register">REGISTER</Link></li></ul>  )}
