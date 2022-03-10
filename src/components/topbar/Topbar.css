@@ -1,0 +1,81 @@
+/* NavBar */
+
+.top{
+    left: 0;
+    width: 100%;
+    height: 60px;
+    background-color: white;
+    position: fixed;
+    top: 0;
+    display: flex;
+    align-items: center;
+    font-family: 'josefin Sans', sans-serif;
+    z-index: 999;
+
+}
+.topLeft, .topRight{
+    flex: 3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.topRight{
+    flex: 4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.topCenter{
+    flex: 5;
+}
+
+.topImage {
+    width: 50px;
+    height: 50px;
+    border-radius: 20%;
+    object-fit: cover;
+    margin-right: 15px;
+}
+.topIcon{
+    font-size: 30px;
+    margin-right: 15px;
+    color: #444;
+    cursor: pointer;
+}
+.search-box{
+    border: none;
+    border-bottom: 1px solid #aaa;
+    background: transparent;
+    outline: none;
+    height: 20px;
+    color: #fff;
+    width: 200px;
+    text-transform: capitalize;
+    font-size: 16px;
+    font-weight: 500;
+    transition: .5s;
+}
+
+.topList{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.topListItem{
+    margin-right: 20px;
+    font-size: 20px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.topSearchIcon{
+    font-size: 25px;
+    color: #666;
+    cursor: pointer;
+    margin-left: 20px;
+}
+/* NavBar end */
